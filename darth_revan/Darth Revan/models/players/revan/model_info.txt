@@ -1,0 +1,44 @@
+Information file for model 'model.glm'
+
+
+GLM Header info:
+
+->ident:             1296518194
+->version:           6
+->name:              model.glm
+->animName:          models/players/_humanoid/_humanoid
+->animIndex:         ( only used by game, but defaulted to 0 )
+->numBones:          53
+->numLODs:           1
+->ofsLODs:           12472
+->numSurfaces:       81
+->ofsSurfHierarchy:  488
+->ofsEnd:            406992  ( also gives overall filesize )
+
+
+Shader Info:
+
+2 unique shaders used, list follows:
+[nomaterial]
+models/players/imperialcommando/boots_hips.png
+
+Rendering Info:
+
+17 surfaces out of 81 default to OFF
+46 surfaces out of 81 are tags only
+...therefore default rendered surface total = 18
+
+LOD 0/1:
+{
+Total Verts:                 7231
+Total Tris :                 8402
+Unique Bone Refs:            40
+
+Default rendered Verts:      6906
+Default rendered Tris:       8203
+Default rendered Bone Refs:  40
+}
+
+
+
+( Skeleton file not written out by this model, uses file 'models/players/_humanoid/_humanoid.gla' )

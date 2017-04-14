@@ -1,0 +1,26 @@
+The lines that look like _ _ _ _ are called mountain lines.
+You fold them down so that the crease forms a kind of peak.
+
+The lines that look like _ . _ . are called valley lines.
+You fold them up so the crease forms a sort of valley.
+
+I use a blue pen and a red pen with a nice sharp edge, and before even cutting,
+mark every valley line in blue, and every mountain line in red.
+It makes it easier to see the lines and know which way to fold them,
+plus making the mark into the cardstock makes it easier to crease.
+
+Solid line are borders, and you should cut along these with an exacto knife.
+You might see a tab pass underneath another part of the design.
+Don't worry about that, you almost never need as much as they give you to glue the tabs together.
+
+If a piece of the mask seems weak, you can use scrap cardstock as support on the inside where nobody will see.
+
+Take the .bmp files to office depot and make sure you print it on the HEAVIEST card stock they have.
+And black and white printing will save you money.  You can always spray paint it later.
+
+
+
+I am including the .pdo file so you can open it in Pepakura Viewer and see where the folds connect,
+if you get lost.
+
+Be careful and don't burn or cut yourself.

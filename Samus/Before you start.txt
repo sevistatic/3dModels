@@ -1,0 +1,91 @@
+--------------------
+
+Before building:
+
+!! IMPORTANT !!
+
+This is NOT a good craft for beginners.  I mean, you can try it if you want, but I would suggest that you try out a few easier models first before you try out this one.  Just save yourself the frustration (and the ink). ;)
+
+I recommend that, before you start, you look over this document, the model, the instructions, etc..  It really helps to know what you're doing BEFORE you screw up. ^_^
+
+--------------------
+
+To open files:
+
+To open .PDF files, you will need Adobe Reader: http://www.adobe.com/products/reader/
+To open .PDO files, you will need Pepakura Viewer: http://www.tamasoft.co.jp/pepakura-en/
+
+--------------------
+
+What to print:
+
+    I've included a lot of different files and stuff in here, so it may be confusing which one you should print.  It mostly depends on your style of building.
+
+First of all: you should NOT print directly from the PDO file.  I've made a few changes that do not show up in the PDO, so you should only print from the PDF's.  The PDO is only for reference; if you aren't sure where a piece goes, you can check the PDO.
+
+So which version do you want to print?  There are five different versions:
+
+- Lineless
+- Lined (Rounded)
+- Lined (Sharp)
+- Lined & White (Rounded)
+- Lined & White (Sharp)
+
+    Which ones you want to print will depend on how you want the model to look.  The Lineless version will produce a higher quality model, since you won't see fold marks on all the edges.
+If you print the Lineless version, then you will also need to print out the Lined version or the Lined & White version as a guide, so you can see where to fold.
+If you don't want to use a guide for the folds, then just print out the Lined version.
+The "Rounded" files only have certain folds marked, and any angle more than 150 degrees is counted as flat.  This produces a smoother look.
+The "Sharp" files have every fold marked, which produces a more polygonal look.
+
+I hope that makes sense, I tried my best. :p
+
+--------------------
+
+Materials you will need before you start:
+
+- Glue
+- Knife or precision scissors
+- Scoring tool (Most people use a ballpoint pen that is out of ink)
+- Ruler or straight edge
+- Toothpick(s)
+
+Other stuff that will make things easier:
+
+- Paper towel
+- Unfolded paper clips (either long and straight, or curved, to reach around corners)
+- Tweezers
+- Multi-tool
+- Cutting mat
+
+--------------------
+
+A note about the instructions:
+
+    If you see a slight difference between the instructions and the real craft, it is because, while I was building the model, I realized that it wasn't perfect.  So, I fixed it to be easier to build.  For example, I have swapped a bunch of tabs on the body.  Even though they look different in the instructions, don't worry.  It just makes it easier for you.
+
+Also, there were a few places in the instructions where you could see another template printed on the inside of the model.  That was my fault; I ran out of cardstock while I was building the model, so I had to "recycle" some old templates. ;)
+
+--------------------
+
+Order of building:
+
+    The different sections of this craft can be built in any order, or all at a time.  I personally was building about 5 different sections at once, so I could save time.  By doing that, though, it makes it a lot easier to mix up pieces.  If you aren't in a rush, it may be safer to do only a few sections at once.
+
+--------------------
+
+Other stuff:
+
+    Samus papercraft made by Gollum999, for Nintendo Papercraft.  http://www.nintendopapercraft.com/
+Feel free to re-post the model, make a video of it, etc., just give me the credit; don't try to claim it as your own.  :)
+
+My normal blog:  http://www.gollum999.blogspot.com/
+My papercraft blog:  http://gollum999papercraft.blogspot.com/
+Email:  gollum9999@gmail.com
+
+I guess that's it...
+
+So...
+
+Thanks for building this model!
+
+--------------------
